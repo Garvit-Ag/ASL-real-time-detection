@@ -10,7 +10,7 @@ offset = 20
 imgSize = 300
 folder = "Data/C"
 counter = 0
-labels = ["4", "5", "6", "7", "8", "A", "B", "C", "D", "F", "G", "H", "I Love You", "No", "Yes", "This is our DA-3"]
+labels = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "I Love You", "No", "Yes", "This is our DA-3"]
 while True:
     success, img = cap.read()
     imgOutput = img.copy()

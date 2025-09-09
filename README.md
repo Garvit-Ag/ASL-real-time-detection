@@ -1,4 +1,4 @@
-My Name is Garvit Aagarwal
+My Name is Harsh Singh
 In this project I used Machine Learning to create a Real Time American Sign Language Detector
 
 1) TrainYourModel
